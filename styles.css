@@ -1,0 +1,44 @@
+
+.whole-page{
+  border: solid #ccc;
+  border-width: thin;
+  box-shadow: 0 5px 4px -1px #ccc;
+  padding: 10px;
+  width: 301px;
+}
+
+.title{
+  font-size: 30px;
+  font-family: helvetica, sans-serif;
+  margin-top: 0;
+  margin-bottom: 4px;
+}
+
+.animal{
+  width: 300px;
+  padding: 0 0 5px 0;
+}
+
+.fact-label{
+  border: solid #ccc;
+  border-width: thin;
+  width: 285px;
+  padding: 0 3px 1px 10px;
+  font-family: helvetica, sans-serif;
+  font-size: small;
+}
+
+.fact-text{
+  font-style: oblique;
+}
+
+.fact-label ul{
+  font-style: italic;
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.fact-label span{
+  font-weight: bold;
+  font-style: normal;
+}
